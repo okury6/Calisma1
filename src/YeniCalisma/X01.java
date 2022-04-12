@@ -1,2 +1,4 @@
-package YeniCalisma;public class X01 {
+package YeniCalisma;
+
+public class X01 {
 }
